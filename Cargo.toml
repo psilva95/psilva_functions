@@ -1,0 +1,15 @@
+[package]
+name = "psilva_functions"
+version = "0.1.0"
+edition = "2024"
+authors = ["Psilva <contato@psilva.com.br>"]
+description = "Bibliotetca de funções do Psilva"
+homepage = "https://github.com/psilva95"
+repository = "https://github.com/psilva95"
+documentation = "https://github.com/psilva95"
+license = "MIT"
+
+keywords = ["psilva", "funções"]
+categories = ["functions"]
+
+[dependencies]
