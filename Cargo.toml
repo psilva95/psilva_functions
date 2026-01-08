@@ -10,6 +10,6 @@ documentation = "https://github.com/psilva95"
 license = "MIT"
 
 keywords = ["psilva", "functions"]
-categories = ["functions"]
+categories = ["compilers"]
 
 [dependencies]
