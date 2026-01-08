@@ -9,7 +9,7 @@ repository = "https://github.com/psilva95"
 documentation = "https://github.com/psilva95"
 license = "MIT"
 
-keywords = ["psilva", "funções"]
+keywords = ["psilva", "functions"]
 categories = ["functions"]
 
 [dependencies]
